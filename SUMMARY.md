@@ -8,6 +8,8 @@
 
 * [第一章 关键概念](chapter1.md)
 * [Hyperledger Fabric Model](hyperledger-fabric-model.md)
+* [Blockchain network](blockchain-network.md)
+
 
 ## 第二章 构建第一个Fabric程序
 
